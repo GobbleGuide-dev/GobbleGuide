@@ -174,7 +174,7 @@ We may update these Terms from time to time. When changes are made:
 ## 13. Contact Information
 
 If you have any questions about these Terms, you can contact us at:  
-**[Insert Email Address]**
+**dev@gobbleguideapp.com**
 
 ---
 
