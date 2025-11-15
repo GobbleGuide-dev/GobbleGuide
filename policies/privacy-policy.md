@@ -161,3 +161,5 @@ However, some services we integrate with may process limited user data as descri
 ---
 **Thank you for trusting Gobble Guide.**  
 We’re committed to protecting your privacy and keeping your experience safe and transparent.
+
+<link rel="stylesheet" href="/assets/custom.css">
