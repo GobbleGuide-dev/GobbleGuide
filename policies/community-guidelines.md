@@ -182,3 +182,4 @@ Thank you for helping build a positive, creative, and respectful community.
 If you have questions, contact us at:  
 **dev@gobbleguideapp.com**
 
+<link rel="stylesheet" href="/assets/custom.css">
