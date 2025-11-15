@@ -47,3 +47,6 @@ This ensures that only the account owner can access or modify their data.
 
 ---
 
+<link rel="stylesheet" href="/assets/custom.css">
+
+
