@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+markdown: kramdown
+include:
+  - assets/custom.css
+
+# Load the custom stylesheet
+sass:
+  style: compressed
