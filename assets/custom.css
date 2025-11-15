@@ -1,0 +1,12 @@
+/* Make all hyperlinks green */
+a {
+  color: #50A060 !important; /* GitHub’s green */
+}
+
+a:visited {
+  color: #1f7a34 !important;
+}
+
+a:hover {
+  color: #34d058 !important;
+}
