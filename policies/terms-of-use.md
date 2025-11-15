@@ -179,3 +179,5 @@ If you have any questions about these Terms, you can contact us at:
 ---
 
 **This document is intended for use in a public GitHub repository and is not legal advice. Please consult a legal professional before relying on it.**
+
+<link rel="stylesheet" href="/assets/custom.css">
