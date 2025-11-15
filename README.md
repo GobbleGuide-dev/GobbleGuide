@@ -48,3 +48,6 @@ If you need help or have questions regarding any policy, please contact us at:
 ---
 
 Thank you for being part of the Gobble Guide community! 🍽️
+
+<link rel="stylesheet" href="/assets/custom.css">
+
