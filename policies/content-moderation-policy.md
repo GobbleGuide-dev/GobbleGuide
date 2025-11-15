@@ -267,3 +267,6 @@ If you have questions about this Content Moderation Policy, you can contact us a
 ---
 
 **This Content Moderation Policy is intended for use within a public GitHub repository and complies with UGC standards required by Google Play and the Apple App Store.**
+
+<link rel="stylesheet" href="/assets/custom.css">
+
